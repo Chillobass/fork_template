@@ -1,0 +1,6 @@
+.env
+.tripgo/
+
+bin/
+
+.DS_Store
